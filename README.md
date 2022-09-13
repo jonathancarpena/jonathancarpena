@@ -39,23 +39,23 @@
 <!-- REACT -->
   <img 
        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-       alt="linkedin-button" 
+       alt="react" 
        data-canonical-src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
        style="max-width: 100%;">
 
 
 <!-- REDUX -->
   <img 
-       src="[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)"
-       alt="linkedin-button" 
-       data-canonical-src="[[https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)" 
+       src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+       alt="redux" 
+       data-canonical-src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" 
        style="max-width: 100%;">
   
   <!-- JAVASCRIPT -->
   <img 
        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
        alt="linkedin-button" 
-       data-canonical-src="[https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" 
+       data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
        style="max-width: 100%;">
   
   <!-- TYPESCRIPT -->
