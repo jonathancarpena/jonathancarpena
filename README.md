@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [jonathancarpena.me](jonathancarpena.me)
 
-- 📫 Reach Me <a href="https://www.linkedin.com/in/jonathan-carpena-582873196/">LinkedIn<a/> **jonathancarpena99@gmail.com**
+- 📫 Reach Me: <a href="https://www.linkedin.com/in/jonathan-carpena-582873196/">LinkedIn<a/> | <a href="jonathancarpena99@gmail.com">Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
