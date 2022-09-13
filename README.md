@@ -91,8 +91,7 @@
        alt="css3" 
        data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
        style="max-width: 100%;">
-  
-<!-- SASS -->
+
     <img 
        src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
        alt="sass" 
