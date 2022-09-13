@@ -4,7 +4,7 @@
 <p dir="auto"> 
 <!-- LINKEDIN -->
 
-<a href="https://www.linkedin.com/in/jonathan-carpena-582873196/" rel="nofollow"><img src="https://camo.githubusercontent.com/24f64f95cf6e008a992c503e4cba07d2176847c11a0c5dce46e260fbdd354da6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4062696e68746861697472696e682d2532333041363643323f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="" data-canonical-src="https://img.shields.io/badge/jonathan carpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/jonathan-carpena-582873196/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" data-canonical-src="https://img.shields.io/badge/jonathan carpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
 
 <!-- PERSONAL SITE -->
 <a href="https:/jonathancarpena.me" rel="nofollow"><img src="https://camo.githubusercontent.com/fdd390be6d95a876bab8611c93f4254c7cecd08b60b3c180e4d16fb2306bde29/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f636f6c6f723d453434443237267374796c653d666c61742d7371756172652675705f6d6573736167653d68747470733a2f2f62696e687472696e682e6465762675726c3d687474707325334125324625324662696e687472696e682e646576" alt="" data-canonical-src="https://img.shields.io/website?color=E44D27&amp;style=flat-square&amp;up_message=https://jonathancarpena.me&amp;url=https%3A%2F%2Fjonathancarpena.me" style="max-width: 100%;"></a>
