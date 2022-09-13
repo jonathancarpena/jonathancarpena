@@ -23,9 +23,10 @@
 
 
 <!-- MINI BIO -->
-<p dir="auto">I am a Fullstack Software Developer with an eye for clean Aesthetics and optimal User Experience via intuitive design. I specialize in: MongoDB, Express.js, React.js, Node.js</p>
-<p dir="auto">To grow my skills, I am focusing on developing a Full-stack application for my business called Talaria Order.</p>
-<p dir="auto">I am currently looking for an entry level web development position.</p>
+<p dir="auto">I am a Software Engineer who finds enjoyment in solving problems and helping people live happier lives through leveraging technology.</p>
+<p dir="auto">Being a daughter of a former U.S. Marine and growing up overseas on the island of Okinawa, I've always loved collaborating with individuals of diverse backgrounds and finding new ways to challenge myself by using different technologies.
+</p>
+<p dir="auto">Prior to software engineering, I worked in the Public Sector and in the Financial Services industry as a Consultant. If I am not coding, I am either cooking for my family and friends, or walking my dog!</p>
 
 
 <!-- FRONT-END -->
