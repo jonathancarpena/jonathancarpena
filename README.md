@@ -24,8 +24,6 @@
 
 <!-- MINI BIO -->
 <p dir="auto">I am a Software Engineer who finds enjoyment in solving problems and helping people live happier lives through leveraging technology.</p>
-<p dir="auto">Being a child of a family who specializes in the healthcare field, I've always loved collaborating with individuals of diverse backgrounds and finding new ways to challenge myself by using different technologies.
-</p>
 
 
 <!-- FRONT-END -->
