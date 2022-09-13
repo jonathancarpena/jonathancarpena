@@ -24,9 +24,7 @@
 
 <!-- MINI BIO -->
 <p dir="auto">I am a Fullstack Javascript Web Developer with an eye for clean Aesthetics and optimal User Experience via intuitive design. Specialize in: MongoDB, Express.js, React.js, Node.js</p>
-
 <p dir="auto">To grow my skills, I am focusing on developing a Full-stack application for my business called Talaria Order.</p>
-
 <p dir="auto">I am currently looking for an entry level web development position.</p>
 
 
@@ -37,23 +35,20 @@
 
 <p dir="auto" > 
 <!-- REACT -->
-
-  <img 
+<img 
        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
        alt="react" 
        data-canonical-src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
        style="max-width: 100%;"/>
-
-
 <!-- REDUX -->
-  <img 
+<img 
        src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
        alt="redux" 
        data-canonical-src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" 
        style="max-width: 100%;"/>
   
-  <!-- JAVASCRIPT -->
-  <img 
+<!-- JAVASCRIPT -->
+<img 
        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
        alt="javascript" 
        data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
