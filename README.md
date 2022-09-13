@@ -135,59 +135,47 @@
 </h2>
 
 <p dir="auto" > 
-<!-- REACT -->
+<!-- JEST -->
 <img 
-       src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-       alt="react" 
-       data-canonical-src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+       src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+       alt="jest" 
+       data-canonical-src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" 
        style="max-width: 100%;"/>
-<!-- REDUX -->
+<!-- MOCHA -->
 <img 
-       src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
-       alt="redux" 
-       data-canonical-src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" 
+       src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"
+       alt="mocha" 
+       data-canonical-src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" 
        style="max-width: 100%;"/>
-<!-- JAVASCRIPT -->
+<!-- CHAI -->
 <img 
-       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-       alt="javascript" 
-       data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
+       src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white"
+       alt="chai" 
+       data-canonical-src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" 
        style="max-width: 100%;"/>
-<!-- TYPESCRIPT -->
+<!-- AWS -->
 <img 
-       src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-       alt="typescript" 
-       data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
+       src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+       alt="aws" 
+       data-canonical-src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" 
        style="max-width: 100%;">
-  <!-- NEXT.JS -->
+  <!-- FIREBASE -->
 <img 
-       src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-       alt="next.js" 
-       data-canonical-src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" 
+       src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"
+       alt="firebase" 
+       data-canonical-src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" 
        style="max-width: 100%;">
-<!-- jQuery -->
+<!-- HEROKU -->
 <img 
-       src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
-       alt="jQuery" 
-       data-canonical-src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
+       src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
+       alt="heroku" 
+       data-canonical-src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" 
        style="max-width: 100%;">
-<!-- HTML5 -->
+<!-- NETLIFY -->
   <img 
-       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-       alt="html5" 
-       data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
-       style="max-width: 100%;">
- <!-- CSS -->
-  <img 
-       src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-       alt="css3" 
-       data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
-       style="max-width: 100%;">
-<!-- SASS -->
-<img 
-     src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
-       alt="sass" 
-       data-canonical-src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" 
+       src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+       alt="netlify" 
+       data-canonical-src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" 
        style="max-width: 100%;">
 </p>
 
@@ -198,59 +186,35 @@
 </h2>
 
 <p dir="auto" > 
-<!-- REACT -->
+<!-- GIT -->
 <img 
-       src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-       alt="react" 
-       data-canonical-src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+       src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+       alt="git" 
+       data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" 
        style="max-width: 100%;"/>
-<!-- REDUX -->
+<!-- NPM -->
 <img 
-       src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
-       alt="redux" 
-       data-canonical-src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" 
+       src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
+       alt="npm" 
+       data-canonical-src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" 
        style="max-width: 100%;"/>
-<!-- JAVASCRIPT -->
+<!-- WEBPACK -->
 <img 
-       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-       alt="javascript" 
-       data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
+       src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"
+       alt="webpack" 
+       data-canonical-src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" 
        style="max-width: 100%;"/>
-<!-- TYPESCRIPT -->
+<!-- BABEL -->
 <img 
-       src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-       alt="typescript" 
-       data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
+       src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white"
+       alt="babel" 
+       data-canonical-src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" 
        style="max-width: 100%;">
-  <!-- NEXT.JS -->
+  <!-- POSTMAN -->
 <img 
-       src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-       alt="next.js" 
-       data-canonical-src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" 
-       style="max-width: 100%;">
-<!-- jQuery -->
-<img 
-       src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
-       alt="jQuery" 
-       data-canonical-src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
-       style="max-width: 100%;">
-<!-- HTML5 -->
-  <img 
-       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-       alt="html5" 
-       data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
-       style="max-width: 100%;">
- <!-- CSS -->
-  <img 
-       src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-       alt="css3" 
-       data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
-       style="max-width: 100%;">
-<!-- SASS -->
-<img 
-     src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
-       alt="sass" 
-       data-canonical-src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" 
+       src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+       alt="postman" 
+       data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" 
        style="max-width: 100%;">
 </p>
 
