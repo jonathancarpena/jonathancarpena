@@ -23,7 +23,7 @@
 
 
 <!-- MINI BIO -->
-<p dir="auto">I am a Fullstack Javascript Web Developer with an eye for clean Aesthetics and optimal User Experience via intuitive design. Specialize in: MongoDB, Express.js, React.js, Node.js</p>
+<p dir="auto">I am a Fullstack Software Developer with an eye for clean Aesthetics and optimal User Experience via intuitive design. I specialize in: MongoDB, Express.js, React.js, Node.js</p>
 <p dir="auto">To grow my skills, I am focusing on developing a Full-stack application for my business called Talaria Order.</p>
 <p dir="auto">I am currently looking for an entry level web development position.</p>
 
