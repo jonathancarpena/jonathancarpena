@@ -35,7 +35,7 @@
   Front-End:
 </h2>
 
-<p dir="auto"> 
+<p dir="auto" style={{direction: flex}}> 
 <!-- REACT -->
   <img 
        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
