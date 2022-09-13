@@ -54,15 +54,15 @@
   <!-- JAVASCRIPT -->
   <img 
        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-       alt="linkedin-button" 
+       alt="javascript" 
        data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
        style="max-width: 100%;">
   
   <!-- TYPESCRIPT -->
   <img 
-       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-       alt="linkedin-button" 
-       data-canonical-src="[https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" 
+       src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+       alt="typescript" 
+       data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
        style="max-width: 100%;">
   
   <!-- NEXT.JS -->
