@@ -26,7 +26,6 @@
 <p dir="auto">I am a Software Engineer who finds enjoyment in solving problems and helping people live happier lives through leveraging technology.</p>
 <p dir="auto">Being a child of a family who specializes in the healthcare field, I've always loved collaborating with individuals of diverse backgrounds and finding new ways to challenge myself by using different technologies.
 </p>
-<p dir="auto">Prior to software engineering, I worked in the Public Sector and in the Financial Services industry as a Consultant. If I am not coding, I am either cooking for my family and friends, or walking my dog!</p>
 
 
 <!-- FRONT-END -->
