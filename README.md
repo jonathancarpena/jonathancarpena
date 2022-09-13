@@ -10,7 +10,7 @@
 
 <!-- PERSONAL SITE -->
 <a href="https:/jonathancarpena.me" rel="nofollow">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="" data-canonical-src="[https://img.shields.io/website?color=E44D27&amp;style=flat-square&amp;up_message=https://jonathancarpena.me&amp;url=https%3A%2F%2Fjonathancarpena.me](https://img.shields.io/badge/jonathancarpena.me-000000?style=for-the-badge&logo=About.me&logoColor=white)" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/jonathancarpena.me-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="" data-canonical-src="[https://img.shields.io/website?color=E44D27&amp;style=flat-square&amp;up_message=https://jonathancarpena.me&amp;url=https%3A%2F%2Fjonathancarpena.me](https://img.shields.io/badge/jonathancarpena.me-000000?style=for-the-badge&logo=About.me&logoColor=white)" style="max-width: 100%;">
   </a>
 </p>
 
