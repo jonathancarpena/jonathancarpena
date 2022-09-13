@@ -10,7 +10,7 @@
 
 <!-- PERSONAL SITE -->
 <a href="https:/jonathancarpena.me" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/fdd390be6d95a876bab8611c93f4254c7cecd08b60b3c180e4d16fb2306bde29/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f636f6c6f723d453434443237267374796c653d666c61742d7371756172652675705f6d6573736167653d68747470733a2f2f62696e687472696e682e6465762675726c3d687474707325334125324625324662696e687472696e682e646576" alt="" data-canonical-src="https://img.shields.io/website?color=E44D27&amp;style=flat-square&amp;up_message=https://jonathancarpena.me&amp;url=https%3A%2F%2Fjonathancarpena.me" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="" data-canonical-src="[https://img.shields.io/website?color=E44D27&amp;style=flat-square&amp;up_message=https://jonathancarpena.me&amp;url=https%3A%2F%2Fjonathancarpena.me](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)" style="max-width: 100%;">
   </a>
 </p>
 
