@@ -5,12 +5,20 @@
 <!-- LINKEDIN -->
 
 <a href="https://www.linkedin.com/in/jonathan-carpena-582873196/" rel="nofollow">
-  <img src="https://img.shields.io/badge/jonathan carpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" data-canonical-src="https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
+  <img 
+       src="https://img.shields.io/badge/jonathan carpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+       alt="" 
+       data-canonical-src="https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+       style="max-width: 100%;">
   </a>
 
 <!-- PERSONAL SITE -->
 <a href="https:/jonathancarpena.me" rel="nofollow">
-  <img src="https://img.shields.io/badge/personal site-000000?style=for-the-badge&logo=About.me&logoColor=#5020DF" alt="" data-canonical-src="[https://img.shields.io/website?color=5020DF&amp;style=flat-square&amp;up_message=https://jonathancarpena.me&amp;url=https%3A%2F%2Fjonathancarpena.me](https://img.shields.io/badge/jonathancarpena.me-000000?style=for-the-badge&logo=About.me&logoColor=#5020DF)" style="max-width: 100%;">
+  <img 
+       src="https://img.shields.io/badge/personal site-000000?style=for-the-badge&logo=About.me&logoColor=5020DF" 
+       alt="" 
+       data-canonical-src="https://img.shields.io/badge/jonathancarpena.me-000000?style=for-the-badge&logo=About.me&logoColor=5020DF" 
+       style="max-width: 100%;">
   </a>
 </p>
 
