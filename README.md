@@ -95,9 +95,9 @@
 
 <!-- SASS -->
   <img 
-       src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-       alt="react" 
-       data-canonical-src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+       src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+       alt="sass" 
+       data-canonical-src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" 
        style="max-width: 100%;">
 
   </p>
