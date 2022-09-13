@@ -15,9 +15,9 @@
 <!-- PERSONAL SITE -->
 <a href="https:/jonathancarpena.me" rel="nofollow">
   <img 
-       src="https://img.shields.io/badge/personal site-000000?style=for-the-badge&logo=About.me&logoColor=5020DF" 
+       src="https://img.shields.io/badge/personal site-5020DF?style=for-the-badge&logo=About.me&logoColor=white" 
        alt="" 
-       data-canonical-src="https://img.shields.io/badge/jonathancarpena.me-000000?style=for-the-badge&logo=About.me&logoColor=5020DF" 
+       data-canonical-src="https://img.shields.io/badge/jonathancarpena.me-5020DF?style=for-the-badge&logo=About.me&logoColor=white" 
        style="max-width: 100%;">
   </a>
 </p>
