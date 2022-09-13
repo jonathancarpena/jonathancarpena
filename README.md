@@ -100,6 +100,8 @@
        data-canonical-src="[https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" 
        style="max-width: 100%;">
 
+  
+  </p>
 <!-- BACK-END -->
 <h2 dir="auto">
   Back-End:
