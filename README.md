@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jonathan Carpena</h1>
-<h3 align="center">A Full Stack Software Developer</h3>
+<h1 align="start">Hi 👋, I'm Jonathan Carpena</h1>
+<h3 align="start">A Full Stack Software Developer</h3>
 
 - 👨‍💻 All of my projects are available at [jonathancarpena.me](jonathancarpena.me)
 
