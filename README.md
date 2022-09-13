@@ -35,14 +35,15 @@
   Front-End:
 </h2>
 
-<p dir="auto" style={{direction: flex}}> 
+<p dir="auto" > 
 <!-- REACT -->
+  <a href="" rel="nofollow">
   <img 
        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
        alt="react" 
        data-canonical-src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
        style="max-width: 100%;">
-
+  </a>
 
 <!-- REDUX -->
   <img 
@@ -100,7 +101,9 @@
        data-canonical-src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" 
        style="max-width: 100%;">
 
-  </p>
+</p>
+
+
 <!-- BACK-END -->
 <h2 dir="auto">
   Back-End:
