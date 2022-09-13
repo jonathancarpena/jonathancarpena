@@ -36,14 +36,13 @@
 </h2>
 
 <p dir="auto"> 
-<!-- LINKEDIN -->
-<a href="https://www.linkedin.com/in/jonathan-carpena-582873196/" rel="nofollow">
+<!-- REACT -->
   <img 
-       src="https://img.shields.io/badge/jonathan carpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
        alt="linkedin-button" 
-       data-canonical-src="https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+       data-canonical-src="[https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" 
        style="max-width: 100%;">
-  </a>
+
 
 <!-- PERSONAL SITE -->
 <a href="https:/jonathancarpena.me" rel="nofollow">
