@@ -38,21 +38,67 @@
 <p dir="auto"> 
 <!-- REACT -->
   <img 
+       src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+       alt="linkedin-button" 
+       data-canonical-src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+       style="max-width: 100%;">
+
+
+<!-- REDUX -->
+  <img 
+       src="[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)"
+       alt="linkedin-button" 
+       data-canonical-src="[[https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)" 
+       style="max-width: 100%;">
+  
+  <!-- JAVASCRIPT -->
+  <img 
+       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+       alt="linkedin-button" 
+       data-canonical-src="[https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" 
+       style="max-width: 100%;">
+  
+  <!-- TYPESCRIPT -->
+  <img 
+       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+       alt="linkedin-button" 
+       data-canonical-src="[https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" 
+       style="max-width: 100%;">
+  
+  <!-- NEXT.JS -->
+  <img 
+       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+       alt="linkedin-button" 
+       data-canonical-src="[https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" 
+       style="max-width: 100%;">
+    
+  <!-- jQuery -->
+  <img 
        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
        alt="linkedin-button" 
        data-canonical-src="[https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" 
        style="max-width: 100%;">
 
-
-<!-- PERSONAL SITE -->
-<a href="https:/jonathancarpena.me" rel="nofollow">
+    <!-- HTML -->
   <img 
-       src="https://img.shields.io/badge/personal site-5020DF?style=for-the-badge&logo=About.me&logoColor=white" 
-       alt="personal-site-button" 
-       data-canonical-src="https://img.shields.io/badge/jonathancarpena.me-5020DF?style=for-the-badge&logo=About.me&logoColor=white" 
+       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+       alt="linkedin-button" 
+       data-canonical-src="[https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" 
        style="max-width: 100%;">
-  </a>
-</p>
+  
+ <!-- CSS -->
+  <img 
+       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+       alt="linkedin-button" 
+       data-canonical-src="[https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" 
+       style="max-width: 100%;">
+  
+<!-- SASS -->
+    <img 
+       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+       alt="linkedin-button" 
+       data-canonical-src="[https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" 
+       style="max-width: 100%;">
 
 <!-- BACK-END -->
 <h2 dir="auto">
