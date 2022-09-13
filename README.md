@@ -216,5 +216,11 @@
        alt="postman" 
        data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" 
        style="max-width: 100%;">
+  <!-- VSCODE -->
+<img 
+       src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+       alt="vscode" 
+       data-canonical-src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" 
+       style="max-width: 100%;"/>
 </p>
 
