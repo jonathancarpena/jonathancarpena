@@ -1,4 +1,4 @@
-<h1 align="start">Hi there, I'm Jonathan Carpena 🖐</h1>
+<h2 align="start">Hi there, I'm Jonathan Carpena 🖐</h2>
 
 <!-- CONTACTS -->
 <p dir="auto"> 
