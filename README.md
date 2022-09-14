@@ -25,14 +25,21 @@
   <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
   <span> I am a self taught full stack developer from Los Angeles, CA.</span>
 </br>
+
+<br>
   <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 
    <span> I’m interested in solving challenging problems and building things that help connect people.</span>
-   
+  </br>
+  
+  <br>
   <g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji>
   <span> I am passionate about helping non-traditional talent obtain roles in the tech industry.</span>
+</br>
 
+<br>
   <g-emoji class="g-emoji" alias="lotus_position_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png">🏃‍♂️</g-emoji>
-  <span> Fun Fact: I am currently building my skillset to become a physical trainer.</span>
+  <span> Fun Fact: I am currently building my skillset to become a certified physical trainer.</span>
+  </br>
 </p>
 
 
