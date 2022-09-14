@@ -56,7 +56,18 @@
        alt="css3" 
        data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
        style="max-width: 100%;">
-
+<!-- JEST -->
+<img 
+       src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+       alt="jest" 
+       data-canonical-src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" 
+       style="max-width: 100%;"/>
+  <!-- GIT -->
+<img 
+       src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+       alt="git" 
+       data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" 
+       style="max-width: 100%;"/>
 </p>
 
 
@@ -93,100 +104,24 @@
        alt="mysql" 
        data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" 
        style="max-width: 100%;">
-</p>
-
-<!-- TESTING/DEPLOYMENT -->
-<h2 dir="auto">
-  Testing/Deployment:
-</h2>
-
-<p dir="auto" > 
-<!-- JEST -->
-<img 
-       src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
-       alt="jest" 
-       data-canonical-src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" 
-       style="max-width: 100%;"/>
-<!-- MOCHA -->
-<img 
-       src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"
-       alt="mocha" 
-       data-canonical-src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" 
-       style="max-width: 100%;"/>
-<!-- CHAI -->
-<img 
-       src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white"
-       alt="chai" 
-       data-canonical-src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" 
-       style="max-width: 100%;"/>
-<!-- AWS -->
-<img 
-       src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
-       alt="aws" 
-       data-canonical-src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" 
-       style="max-width: 100%;">
-  <!-- FIREBASE -->
-<img 
-       src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"
-       alt="firebase" 
-       data-canonical-src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" 
-       style="max-width: 100%;">
-<!-- HEROKU -->
-<img 
-       src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-       alt="heroku" 
-       data-canonical-src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" 
-       style="max-width: 100%;">
-<!-- NETLIFY -->
-  <img 
-       src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
-       alt="netlify" 
-       data-canonical-src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" 
-       style="max-width: 100%;">
-</p>
-
-
-<!-- Tools -->
-<h2 dir="auto">
-  Developer Tools:
-</h2>
-
-<p dir="auto" > 
-<!-- GIT -->
-<img 
-       src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
-       alt="git" 
-       data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" 
-       style="max-width: 100%;"/>
-<!-- NPM -->
-<img 
-       src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
-       alt="npm" 
-       data-canonical-src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" 
-       style="max-width: 100%;"/>
-<!-- WEBPACK -->
+  <!-- WEBPACK -->
 <img 
        src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"
        alt="webpack" 
        data-canonical-src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" 
        style="max-width: 100%;"/>
-<!-- BABEL -->
-<img 
-       src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white"
-       alt="babel" 
-       data-canonical-src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" 
-       style="max-width: 100%;">
-  <!-- POSTMAN -->
-<img 
-       src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
-       alt="postman" 
-       data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" 
-       style="max-width: 100%;">
-  <!-- VSCODE -->
+         <!-- VSCODE -->
 <img 
        src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
        alt="vscode" 
        data-canonical-src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" 
        style="max-width: 100%;"/>
 </p>
+
+
+
+
+
+
+
 
