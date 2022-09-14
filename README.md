@@ -3,7 +3,7 @@
 <!-- CONTACTS -->
 <p dir="auto"> 
 <!-- LINKEDIN -->
-<a href="https://www.linkedin.com/in/jonathan-carpena-582873196/" rel="nofollow">
+<a href="https://www.linkedin.com/in/jonathan-carpena/" rel="nofollow">
   <img 
        src="https://img.shields.io/badge/jonathan carpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
        alt="linkedin-button" 
