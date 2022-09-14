@@ -10,6 +10,7 @@
        data-canonical-src="https://img.shields.io/badge/@jonathancarpena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
        style="max-width: 100%;">
   </a>
+  
 
 <!-- PERSONAL SITE -->
 <a href="https://www.jonathancarpena.me/" rel="nofollow">
@@ -19,6 +20,16 @@
        data-canonical-src="https://img.shields.io/badge/jonathancarpena.me-5020DF?style=for-the-badge&logo=About.me&logoColor=white" 
        style="max-width: 100%;">
   </a>
+  
+  <br>
+  <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
+   I am a self taught full stack developer from Los Angeles, CA.
+  <br>
+  
+    <br>
+  <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 
+   I’m interested in solving challenging problems and building things that help connect people.
+  <br>
 </p>
 
 
