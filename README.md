@@ -27,9 +27,9 @@
 
 
 <!-- LANGUAGES & TOOLS -->
-<h2 dir="auto">
+<h3 dir="auto">
   Languages & Tools
-</h2>
+</h3>
 
 <p dir="auto" > 
 <!-- REACT -->
