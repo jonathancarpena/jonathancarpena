@@ -28,10 +28,10 @@
    <span> I’m interested in solving challenging problems and building things that help connect people.</span>
    
   <g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji>
-  <span> I am passionate about </span>
+  <span> I am passionate about helping non-traditional talent obtain roles in the tech industry.</span>
 
-  <g-emoji class="g-emoji" alias="lotus_position_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png">🧘‍♀️</g-emoji>
-  <span> Fun Fact: I am currently training </span>
+  <g-emoji class="g-emoji" alias="lotus_position_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png">🏃‍♂️</g-emoji>
+  <span> Fun Fact: I am currently training to run my very first marathon.</span>
 </p>
 
 
