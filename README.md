@@ -21,15 +21,14 @@
        style="max-width: 100%;">
   </a>
   
-  <br>
+
   <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
    I am a self taught full stack developer from Los Angeles, CA.
-  <br>
-  
-    <br>
+
+
   <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 
    I’m interested in solving challenging problems and building things that help connect people.
-  <br>
+
 </p>
 
 
