@@ -26,9 +26,9 @@
 <p dir="auto">I am a Software Engineer who finds enjoyment in solving problems and helping people live happier lives through leveraging technology.</p>
 
 
-<!-- FRONT-END -->
+<!-- LANGUAGES & TOOLS -->
 <h2 dir="auto">
-  Front-End:
+  Languages & Tools
 </h2>
 
 <p dir="auto" > 
@@ -38,36 +38,12 @@
        alt="react" 
        data-canonical-src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
        style="max-width: 100%;"/>
-<!-- REDUX -->
-<img 
-       src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
-       alt="redux" 
-       data-canonical-src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" 
-       style="max-width: 100%;"/>
 <!-- JAVASCRIPT -->
 <img 
        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
        alt="javascript" 
        data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
        style="max-width: 100%;"/>
-<!-- TYPESCRIPT -->
-<img 
-       src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-       alt="typescript" 
-       data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
-       style="max-width: 100%;">
-  <!-- NEXT.JS -->
-<img 
-       src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-       alt="next.js" 
-       data-canonical-src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" 
-       style="max-width: 100%;">
-<!-- jQuery -->
-<img 
-       src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
-       alt="jQuery" 
-       data-canonical-src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
-       style="max-width: 100%;">
 <!-- HTML5 -->
   <img 
        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -80,19 +56,11 @@
        alt="css3" 
        data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
        style="max-width: 100%;">
-<!-- SASS -->
-<img 
-     src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
-       alt="sass" 
-       data-canonical-src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" 
-       style="max-width: 100%;">
+
 </p>
 
 
-<!-- BACK-END -->
-<h2 dir="auto">
-  Back-End:
-</h2>
+
 
 <p dir="auto" > 
 <!-- NODE.JS -->
