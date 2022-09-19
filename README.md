@@ -32,7 +32,7 @@
   <span> I am passionate about helping non-traditional backgrounds obtain roles in the tech industry.</span>
   
   <g-emoji class="g-emoji" alias="lotus_position_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png">🏃‍♂️ </g-emoji>
-  <span> Fun Fact: I am currently building my skillset to become a certified physical trainer.</span>
+  <span> Fun Fact: I am currently training for my first official marathon!</span>
 </p>
 
 
