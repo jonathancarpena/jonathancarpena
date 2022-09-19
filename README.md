@@ -23,7 +23,7 @@
   
 <!--  FACTS  -->
   <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋 </g-emoji>
-  <span> I am a self taught software engineer specializing on front-end development and some back-end development from Los Angeles, CA.</span>
+  <span> I am a self taught software engineer specializing in front-end development and some back-end development from Los Angeles, CA.</span>
   
   <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻 </g-emoji> 
    <span> I’m interested in solving challenging problems and building things that help connect people.</span>
