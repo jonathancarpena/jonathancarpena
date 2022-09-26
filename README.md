@@ -97,12 +97,6 @@
        alt="expressjs" 
        data-canonical-src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" 
        style="max-width: 100%;"/>
-<!-- POSTGRESQL -->
-<img 
-       src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-       alt="postgresql" 
-       data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
-       style="max-width: 100%;"/>
 <!-- MONGODB -->
 <img 
        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
