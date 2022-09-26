@@ -51,9 +51,9 @@
        style="max-width: 100%;"/>
  <!-- TYPESCRIPT -->
 <img 
-       src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-       alt="react" 
-       data-canonical-src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+       src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+       alt="typescript" 
+       data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
        style="max-width: 100%;"/>
 <!-- JAVASCRIPT -->
 <img 
