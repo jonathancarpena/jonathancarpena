@@ -49,6 +49,12 @@
        alt="react" 
        data-canonical-src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
        style="max-width: 100%;"/>
+ <!-- TYPESCRIPT -->
+<img 
+       src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+       alt="react" 
+       data-canonical-src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+       style="max-width: 100%;"/>
 <!-- JAVASCRIPT -->
 <img 
        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
