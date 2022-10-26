@@ -26,10 +26,10 @@
   <span> I am a software engineer specializing in front end web development from Los Angeles, CA.</span>
   
   <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻 </g-emoji> 
-   <span> I’m interested in solving challenging problems and building things that help connect people.</span>
+   <span> I’m interested in solving challenging problems and building things that are aesthetic.</span>
   
   <g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️ </g-emoji>
-  <span> I am passionate about helping clients achieve amazing digital experiences.</span>
+  <span> I am passionate about helping clients make the most of their customers and audiences, by providing them with great user experiences..</span>
   
   <g-emoji class="g-emoji" alias="lotus_position_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png">🏃‍♂️ </g-emoji>
   <span> Fun Fact: I am currently training for my first official marathon!</span>
