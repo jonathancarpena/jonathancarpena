@@ -23,13 +23,13 @@
   
 <!--  FACTS  -->
   <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋 </g-emoji>
-  <span> I am a software engineer specializing in full stack web development from Los Angeles, CA.</span>
+  <span> I am a software engineer specializing in front end web development from Los Angeles, CA.</span>
   
   <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻 </g-emoji> 
    <span> I’m interested in solving challenging problems and building things that help connect people.</span>
   
   <g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️ </g-emoji>
-  <span> I am passionate about helping non-traditional backgrounds obtain roles in the tech industry.</span>
+  <span> I am passionate about helping clients achieve amazing digital experiences.</span>
   
   <g-emoji class="g-emoji" alias="lotus_position_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png">🏃‍♂️ </g-emoji>
   <span> Fun Fact: I am currently training for my first official marathon!</span>
