@@ -32,7 +32,7 @@
   <span> I am passionate about helping clients make the most of their customers and audiences by creating great user experiences.</span>
   
   <g-emoji class="g-emoji" alias="lotus_position_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png">🏃‍♂️ </g-emoji>
-  <span> Fun Fact: I am currently training for my first official marathon!</span>
+  <span> Fun Fact: I am currently learning Mobile Development!</span>
 </p>
 
 
